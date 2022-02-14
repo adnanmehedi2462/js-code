@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:\\djangReactProject"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js full course",
+		"liveServer.settings.port": 5501
+	}
+}

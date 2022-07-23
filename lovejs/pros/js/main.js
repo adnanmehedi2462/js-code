@@ -1,6 +1,6 @@
 // const milestoneData=JSON.parse(data).data;
 // function loadMilestone(){
-//     const ms=document.querySelector(".milestones");
+//     const ms=document.querySelector(".milestones");//
 //     ms.innerHTML=`${milestoneData.map(function(milstn){
 //         return `<div class="milestone border-b">
 //         <div class="flex">
